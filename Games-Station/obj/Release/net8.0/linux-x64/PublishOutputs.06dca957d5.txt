@@ -1,0 +1,5 @@
+E:\c# imp\vs imp\asp.net Projects\Games-Station\Games-Station\obj\Release\net8.0\linux-x64\PubTmp\Out\appsettings.Development.json
+E:\c# imp\vs imp\asp.net Projects\Games-Station\Games-Station\obj\Release\net8.0\linux-x64\PubTmp\Out\appsettings.json
+E:\c# imp\vs imp\asp.net Projects\Games-Station\Games-Station\obj\Release\net8.0\linux-x64\PubTmp\Out\libman.json
+E:\c# imp\vs imp\asp.net Projects\Games-Station\Games-Station\obj\Release\net8.0\linux-x64\PubTmp\Out\Games-Station.pdb
+E:\c# imp\vs imp\asp.net Projects\Games-Station\Games-Station\obj\Release\net8.0\linux-x64\PubTmp\Out\Games-Station

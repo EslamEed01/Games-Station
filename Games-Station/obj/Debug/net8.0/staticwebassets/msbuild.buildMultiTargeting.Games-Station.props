@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Games-Station.props" />
+</Project>
